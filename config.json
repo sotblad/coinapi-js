@@ -1,0 +1,8 @@
+{
+    "coinName": "Coin Name",
+    "host": "RPC Host IP",
+    "rpcport": RPCPORT,
+    "rpcuser" : "RPC User Name",
+    "rpcpass" : "RPC Password",
+    "apiport": 3001
+}
