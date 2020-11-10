@@ -27,7 +27,7 @@ npm start
 
 */getblock/[hash]
 
-*/getrawtransaction/[txid]/[decrypt]
+*/getrawtransaction/[txid]/[decrypt (0 or 1)]
 
 */getnetworkhashps
 
