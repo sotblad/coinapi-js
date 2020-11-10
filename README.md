@@ -12,13 +12,21 @@ and edit the config.js file to match your node's RPC info
 ## Usage
 
 */getdifficulty
+
 */getconnectioncount
+
 */getblockcount
+
 */getblockhash/[index]
+
 */getblock/[hash]
+
 */getrawtransaction/[txid]/[decrypt]
+
 */getnetworkhashps
+
 */getmoneysupply
+
 */getdistribution
 
 ## Contributing
